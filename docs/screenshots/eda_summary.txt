@@ -1,0 +1,32 @@
+==================================================
+EDA SUMMARY
+==================================================
+
+Dataset Shape: 5000 rows × 14 columns
+
+Column Information:
+  - sale_date: str
+  - product_category: str
+  - product_name: str
+  - price: float64
+  - quantity: int64
+  - amount: float64
+  - customer_id: int64
+  - customer_name: str
+  - customer_region: str
+  - order_id: int64
+  - order_status: str
+  - region: str
+  - purchase_date: str
+  - total_sales: float64
+
+Statistical Summary:
+             price     quantity       amount  customer_id     order_id   total_sales
+count  4901.000000  5000.000000  5000.000000  5000.000000  5000.000000   5000.000000
+mean    503.541485    10.024600  2541.151380  5484.000400  2500.500000   5076.001505
+std     289.098646     5.485509  1433.891096  2599.491177  1443.520003   4345.085397
+min      10.156167     1.000000    50.996921  1000.000000     1.000000     12.430041
+25%     251.400709     5.000000  1309.719903  3248.750000  1250.750000   1522.881602
+50%     496.157270    10.000000  2531.992535  5482.000000  2500.500000   3808.956169
+75%     761.087146    15.000000  3815.786102  7721.500000  3750.250000   7632.931749
+max     999.925579    19.000000  4999.119719  9998.000000  5000.000000  18906.942274

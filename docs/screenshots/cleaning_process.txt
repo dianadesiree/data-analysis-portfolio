@@ -1,0 +1,14 @@
+==================================================
+DATA CLEANING PROCESS
+==================================================
+
+Initial dataset shape: (5000, 14)
+Initial missing values: 149
+Initial duplicates: 0
+
+After removing duplicates:
+  Shape: (5000, 14)
+
+After removing missing values:
+  Shape: (4853, 14)
+  Missing values removed: 149
