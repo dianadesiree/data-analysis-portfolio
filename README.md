@@ -491,7 +491,7 @@ See the `LICENSE` file for more information.
 
 - **Email:** dianadaraujo78@gmail.com
 - **GitHub:** [dianadesiree](https://github.com/dianadesiree)
-- **LinkedIn:** [Add your LinkedIn profile here](YOUR_LINKEDIN_URL)
+- **LinkedIn:** [Diana Araujo](https://www.linkedin.com/in/dianadaraujo/)
 
 ---
 
