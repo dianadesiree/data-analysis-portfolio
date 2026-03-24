@@ -504,11 +504,3 @@ See the `LICENSE` file for more information.
 
 ---
 
-## Optional Git Commands to Publish the Updated README
-
-```powershell
-git status
-git add README.md
-git commit -m "Refine README with professional GitHub presentation"
-git push origin main
-```
